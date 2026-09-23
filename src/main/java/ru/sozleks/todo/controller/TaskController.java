@@ -11,14 +11,14 @@ import org.springframework.web.bind.annotation.RequestBody;
 import java.util.List;
 
 import ru.sozleks.todo.model.Task;
-import ru.sozleks.todo.repository.TodoRepository;
+import ru.sozleks.todo.repository.TaskRepository;
 
 @RestController
 @RequestMapping("/api/tasks")
 public class TaskController {
-    private final TodoRepository repository;
+    private final TaskRepository repository;
 
-    public TaskController(TodoRepository repository) {
+    public TaskController(TaskRepository repository) {
         this.repository = repository;
     }
 
