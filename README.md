@@ -16,15 +16,15 @@
 
 - *Отправка GET-запроса через Postman:*
 
-    ![POST-запрос](doc/images/GET1.PNG)
+    ![Первый GET-запрос](doc/images/GET1.png)
 
 - *Отправка DELETE-запроса через Postman:*
 
-    ![POST-запрос](doc/images/DELETE.PNG)
+    ![Второй GET-запрос](doc/images/DELETE.PNG)
 
 - *Повторная отправка GET-запроса через Postman:*
 
-    ![POST-запрос](doc/images/GET2.PNG)
+    ![POST-запрос](doc/images/GET2.png)
 ### ⚙️ Элементы кода
 - *Объект для автоматического создания таблицы (Task.java):*
 ```java
@@ -96,7 +96,10 @@ public class TaskController {
   3. **Запустить** Git Bash и ввести: git clone "HTTP-адрес из пункта 1"
   4. **Открыть** проект в любой IDE
 - *JAR-файл:*
-  1. Скоро заполню
+  1. **Открыть** репозиторий **GitHub**
+  2. Справа **найти** раздел: **"Релизы"**
+  3. **Кликнуть** по **JAR-файлу**
+  4. **Дождаться установки файла** на компьютер
 ### ▶️ Запуск
 - *Исходный код (в IDE):*
   1. Через кнопку: **запустить** файл **TodoApplication.java**
@@ -115,8 +118,7 @@ public class TaskController {
 
 ### ✉️ Обратная связь:
 - **Электронная почта:** sozleks.dev@gmail.com
+- **Профиль в Reddit:** [u/Sozleks](https://www.reddit.com/user/Sozleks/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 - **Профиль в VK:**
 
     <img src="doc/images/Sozleks.PNG" width="100">
-
-- **Профиль в Reddit:** u/Sozleks
